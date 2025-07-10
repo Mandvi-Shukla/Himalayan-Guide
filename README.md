@@ -37,29 +37,30 @@ Your complete digital companion for Himalayan trekking adventures, featuring int
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/himalayan-explorer.git
+```
 
-## 🌱 Future Improvements
+## Future Improvements
 
-| Feature | Status | Description |
-|---------|--------|-------------|
-| 📱 PWA Support | Planned | Convert to installable Progressive Web App |
-| 🗺️ Offline Maps | Researching | Download maps for offline use |
-| 📊 Trail Conditions | Backlog | User-submitted trail reports |
-| 🤝 Community Forum | Planned | Trekker discussion platform |
-| 🏔️ AR Peak ID | Future | Augmented Reality mountain identification |
-| 📲 Mobile Apps | Roadmap | Native iOS/Android applications |
-| 🧭 GPS Tracking | Planned | Real-time location tracking |
-| 🌦️ Hyper-local Weather | Researching | Micro-weather forecasts |
+| Feature            | Status       | Description |
+|--------------------|--------------|-------------|
+| PWA Support        | Planned      | Convert to installable Progressive Web App |
+| Offline Maps       | Researching  | Download maps for offline use |
+| Trail Conditions   | Backlog      | User-submitted trail reports |
+| Community Forum    | Planned      | Trekker discussion platform |
+| AR Peak ID         | Future       | Augmented Reality mountain identification |
+| Mobile Apps        | Roadmap      | Native iOS/Android applications |
+| GPS Tracking       | Planned      | Real-time location tracking |
+| Hyper-local Weather| Researching  | Micro-weather forecasts |
 
-## 📚 Inspired By
+## Inspired By
 
 - [AllTrails](https://www.alltrails.com/) - Trail database & reviews
-- [Himalayan Rescue Association](https://www.himalayanrescue.org/) - Mountain safety resources  
+- [Himalayan Rescue Association](https://www.himalayanrescue.org/) - Mountain safety resources
 - [PeakVisor](https://peakvisor.com/) - 3D mountain identification
 - [Mountain Project](https://www.mountainproject.com/) - Climbing route database
 
-## 🙋 Author
+## Author
 
-**Your Name**  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/yourusername)  
+**Mandvi-Shukla**  
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Mandvi-Shukla)
