@@ -1,6 +1,6 @@
 # 🏔️ Himalayan Explorer Pro
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-brightgreen)](https://aquamarine-caramel-3923c7.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-brightgreen)](https://lighthearted-starship-ae4547.netlify.app/)
 
 
 
